@@ -1,2 +1,6 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<svelte:head>
+    <title>Autonomator</title>
+</svelte:head>
+<h1>Bienvenidos a autonomator</h1>
+<h2>El portal para el autionomo que no es digital</h2>
+
